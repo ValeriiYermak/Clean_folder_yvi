@@ -1,0 +1,2 @@
+[console_scripts]
+clean = Clean_folder_yvi.clean:start
